@@ -1,4 +1,5 @@
 <?php
+echo "Shahid Saleem"."<br>";
 echo "<h1>Syntax of- While Loop</h1><br>";
 While(condition){
 //code to be executed
