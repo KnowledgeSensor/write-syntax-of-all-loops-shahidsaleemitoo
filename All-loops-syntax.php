@@ -19,3 +19,4 @@ echo "Or with keys"."<br>";
 foreach($array as $key => $value){
     //code to be executed
 }
+?>
